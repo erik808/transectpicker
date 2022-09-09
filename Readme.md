@@ -7,7 +7,7 @@ Let's you draw a transect in an image. The user selects point and straight paths
 - `ipympl` (for local or remote use with jupyter notebooks)
 - `cairo`, `pycairo` (for remote use in scripts)
 
-See `environment.yml` for a working conda environment.
+See `bi_default.yml` for a working conda environment.
 
 ## Usage
 button/key | action
@@ -18,7 +18,7 @@ backspace | reset
 enter | exit
 
 ### Code example
-A working environment is supplied in `environment.yml`
+A working environment is supplied in `bi_default.yml`
 
 Examples are available in
 - `test_transectpicker.py`
